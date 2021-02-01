@@ -1,0 +1,193 @@
+/* .bg{
+    position:relative;
+    background-image: url("backgroundImage.jpg");
+     background-size: cover;
+     width: 100%;
+     height: 100vh;
+     background-repeat: no-repeat;
+    max-width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+   
+} */
+
+.pad1{
+    position:fixed;
+    top:73%;
+    left:5%;
+    
+}
+.pad1 img{
+    width:55px;
+    height:auto;
+}
+.pad2{
+    position:fixed;
+    top:80%;
+    left:20%;
+    
+}
+.pad2 img{
+    width:55px;
+    height:auto;
+}
+.pad3{
+    position:fixed;
+    top:85%;
+    left:40%;
+    
+}
+.pad3 img{
+    width:55px;
+    height:auto;
+}
+.pad4{
+    position:fixed;
+    top:75%;
+    left:55%;
+    
+}
+.pad4 img{
+    width:55px;
+    height:auto;
+}
+.pad5{
+    position:fixed;
+    top:78%;
+    left:70%;
+    
+}
+.pad5 img{
+    width:55px;
+    height:auto;
+}
+.pad6{
+    position:fixed;
+    top:85%;
+    left:83%;
+    
+}
+.pad6 img{
+    width:55px;
+    height:auto;
+}
+.pad7{
+    position:fixed;
+    top:95%;
+    left:60%;
+    
+}
+.pad7 img{
+    width:55px;
+    height:auto;
+}
+.pad8{
+    position:fixed;
+    top:85%;
+    left:2%;
+    
+}
+.pad8 img{
+    width:55px;
+    height:auto;
+}
+.pad9{
+    position:fixed;
+    top:95%;
+    left:30%;
+    
+}
+.pad9 img{
+    width:55px;
+    height:auto;
+}
+.diglett1{
+    position:fixed;
+    top:73%;
+    left:5%;
+    
+}
+.diglett1 img{
+    width:200px;
+    height:auto;
+}
+.diglett2{
+    position:fixed;
+    top:80%;
+    left:20%;
+    
+}
+.diglett2 img{
+    width:200px;
+    height:auto;
+}
+.diglett3{
+    position:fixed;
+    top:85%;
+    left:40%;
+    
+}
+.diglett3 img{
+    width:200px;
+    height:auto;
+}
+.diglett4{
+    position:fixed;
+    top:75%;
+    left:55%;
+    
+}
+.diglett4 img{
+    width:200px;
+    height:auto;
+}
+.diglett5{
+    position:fixed;
+    top:78%;
+    left:70%;
+    
+}
+.diglett5 img{
+    width:200px;
+    height:auto;
+}
+.diglett6{
+    position:fixed;
+    top:85%;
+    left:83%;
+    
+}
+.diglett6 img{
+    width:200px;
+    height:auto;
+}
+.diglett7{
+    position:fixed;
+    top:95%;
+    left:60%;
+    
+}
+.diglett7 img{
+    width:200px;
+    height:auto;
+}
+.diglett8{
+    position:fixed;
+    top:85%;
+    left:2%;
+    
+}
+.diglett8 img{
+    width:200px;
+    height:auto;
+}
+.diglett9{
+    position:fixed;
+    top:95%;
+    left:30%;
+    
+}
+.diglett9 img{
+    width:200px;
+    height:auto;
+}
